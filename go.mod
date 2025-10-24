@@ -1,3 +1,3 @@
-module example.com/singo
+module singo
 
 go 1.24.4
